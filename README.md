@@ -34,8 +34,6 @@ cargo run -- --help
 ```
 === SYSTEM MONITOR ===
 
-=== SYSTEM MONITOR ===
-
 CPU Usage: 1.7%
 [                                        ]
 

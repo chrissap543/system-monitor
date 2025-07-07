@@ -1,3 +1,5 @@
+pub mod output;
+
 pub fn generate_progress_bar(current: f64, max: f64, use_color: bool) -> String {
     let width = 40;
     let filled = ((current / max) * width as f64) as usize;
